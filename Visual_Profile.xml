@@ -1,0 +1,82 @@
+<wcag>
+      <rule>
+		<id>111</id>
+		<desc>All data table summaries contain text.</desc>
+		<DeuteranomallyRed-Green>N</DeuteranomallyRed-Green>
+		<Deuteranopiagreen>N</Deuteranopiagreen>
+		<Protanomlyred-green>N</Protanomlyred-green>
+		<ProtanopiaRed>N</ProtanopiaRed>
+		<Tritonamnalyblue-yellow>N</Tritonamnalyblue-yellow>
+		<TritanopiaBlue>N</TritanopiaBlue>
+		<pri>3</pri>
+	 </rule>
+     <rule>
+		<id>112</id>
+		<desc>All data <code>table</code> summaries contain text.</desc>
+        <DeuteranomallyRed-Green>N</DeuteranomallyRed-Green>
+		<Protanomlyred-green>N</Protanomlyred-green>
+		<Tritonamnalyblue-yellow>N</Tritonamnalyblue-yellow>
+		<Deuteranopiagreen>N</Deuteranopiagreen>
+		<ProtanopiaRed>N</ProtanopiaRed>
+		<TritanopiaBlue>N</TritanopiaBlue>
+		<pri>3</pri>
+	</rule>
+    <rule>
+		<id>91</id>
+		<desc>All select elements have an explicitly associated label.</desc>
+		<DeuteranomallyRed-Green>N</DeuteranomallyRed-Green>
+		<Protanomlyred-green>N</Protanomlyred-green>
+		<Tritonamnalyblue-yellow>N</Tritonamnalyblue-yellow>
+		<Deuteranopiagreen>N</Deuteranopiagreen>
+		<ProtanopiaRed>N</ProtanopiaRed>
+		<TritanopiaBlue>N</TritanopiaBlue>
+		<pri>4</pri>
+	</rule>
+    <rule>
+		<id>57</id>
+		<desc>All input elements, type of "text", have an explicitly associated label.</desc>
+		<DeuteranomallyRed-Green>Y</DeuteranomallyRed-Green>
+		<Protanomlyred-green>Y</Protanomlyred-green>
+		<Tritonamnalyblue-yellow>Y</Tritonamnalyblue-yellow>
+		<Deuteranopiagreen>Y</Deuteranopiagreen>
+		<ProtanopiaRed>Y</ProtanopiaRed>
+		<TritanopiaBlue>Y</TritanopiaBlue>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>252</id>
+		<desc>Data tables that contain more than one row/column of headers use the id and 
+		headers attributes to identify cells</desc>
+		<DeuteranomallyRed-Green>N</DeuteranomallyRed-Green>
+		<Protanomlyred-green>N</Protanomlyred-green>
+		<Tritonamnalyblue-yellow>N</Tritonamnalyblue-yellow>
+		<Deuteranopiagreen>N</Deuteranopiagreen>
+		<ProtanopiaRed>N</ProtanopiaRed>
+		<TritanopiaBlue>N</TritanopiaBlue>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>177</id>
+		<desc>font must not be used.</desc>
+		<DeuteranomallyRed-Green>N</DeuteranomallyRed-Green>
+		<Protanomlyred-green>N</Protanomlyred-green>
+		<Tritonamnalyblue-yellow>N</Tritonamnalyblue-yellow>
+		<Deuteranopiagreen>N</Deuteranopiagreen>
+		<ProtanopiaRed>N</ProtanopiaRed>
+		<TritanopiaBlue>N</TritanopiaBlue>
+		<pri>7</pri>
+	</rule>
+	<rule>
+		<id>117</id>
+		<desc>i (italic) element is not used.</desc>
+		<DeuteranomallyRed-Green>N</DeuteranomallyRed-Green>
+		<Protanomlyred-green>N</Protanomlyred-green>
+		<Tritonamnalyblue-yellow>N</Tritonamnalyblue-yellow>
+		<Deuteranopiagreen>N</Deuteranopiagreen>
+		<ProtanopiaRed>N</ProtanopiaRed>
+		<TritanopiaBlue>N</TritanopiaBlue>
+		<pri>7</pri>
+	</rule>
+	
+</wcag>
+

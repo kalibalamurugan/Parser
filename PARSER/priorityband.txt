@@ -1,0 +1,3 @@
+A- 1 to 4
+AA- 5 to 7
+AAA- 8 to 10

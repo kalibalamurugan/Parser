@@ -1,0 +1,311 @@
+<wcag>
+                   <rule>
+		<id>111</id>
+		<desc>All data table summaries contain text.</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>3</pri>
+	</rule>
+                   <rule>
+		<id>112</id>
+		<desc>All data <code>table</code> summaries contain text.</desc>
+                                       <Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>3</pri>
+	</rule>
+                    <rule>
+		<id>91</id>
+		<desc>All select elements have an explicitly associated label.</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>4</pri>
+	</rule>
+                    <rule>
+		<id>57</id>
+		<desc>All input elements, type of "text", have an explicitly associated label.</desc>
+		<Deuteranomally(Red-Green)>Y</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>Y</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>Y</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>Y</ Deuteranopia(green)>
+		<Protanopia(Red)>Y</ Protanopia(Red)>
+		<Tritanopia(Blue)>Y</ Tritanopia(Blue)>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>252</id>
+		<desc>Data tables that contain more than one row/column of headers use the id and 
+		headers attributes to identify cells</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>177</id>
+		<desc>font must not be used.</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>7</pri>
+	</rule>
+	<rule>
+		<id>117</id>
+		<desc>i (italic) element is not used.</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>7</pri>
+	</rule>
+
+	     <rule>
+		<id>25</id>
+		<desc>applet contains a text equivalent in the body of the applet.</desc>
+		<pri>3</pri>
+	</rule>
+                   <rule>
+		<id>64</id>
+		<desc>All area elements have an alt attribute.</desc>
+		<pri>4</pri>
+	</rule>
+
+	<rule>
+		<id>178</id>
+		<desc>Alt text for all img elements that are not used as source anchors conveys 
+		the same information as the image.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>239</id>
+		<desc>title attribute for all img elements is absent or the empty string ("") if 
+		the image is decorative.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>58</id>
+		<desc>All input elements with a type attribute value of "image" have an alt 
+		attribute.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>59</id>
+		<desc>Alt text for all input elements with a type attribute value of "image" 
+		identifies the purpose or function of the image.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>60</id>
+		<desc>Alt text for all input elements with a type attribute value of "image" is 
+		less than 100 characters (English) or the user has confirmed that the Alt 
+		text is as short as possible.</desc>
+		<pri>2</pri>
+	</rule>
+	<rule>
+		<id>62</id>
+		<desc>Image used in input element - Alt text should not be placeholder text.</desc>
+		<pri>2</pri>
+	</rule>
+	<rule>
+		<id>80</id>
+		<desc>All objects contain a text equivalent of the object.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>160</id>
+		<desc>object may require a long description.</desc>
+		<pri>3</pri>
+	</rule>
+
+	<rule>
+		<id>247</id>
+		<desc>All checkbox groups are marked using fieldset and legend elements.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>57</id>
+		<desc>All input elements, type of "text", have an explicitly associated label</desc>
+		<pri>4</pri>
+	</rule>
+
+
+	<rule>
+		<id>204</id>
+		<desc>All input elements, type of "radio", have a label containing text.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>206</id>
+		<desc>All input elements, type of "checkbox", have a label containing text.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>207</id>
+		<desc>All input elements, type of "password", have a label containing text.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>211</id>
+		<desc>All input elements, type of "text", have a label that is positioned close 
+		to the control.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>213</id>
+		<desc>All input elements, type of "text", have a label containing text.</desc>
+		<pri>4</pri>
+	</rule>
+
+	<rule>
+		<id>91</id>
+		<desc>All select elements have an explicitly associated label.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>	
+		<id>209</id>
+		<desc>All select elements have a label that is positioned close to the control.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>111</id>
+		<desc>All complex data tables have a summary.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>115</id>
+		<desc>All layout tables do not contain caption elements.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>136</id>
+		<desc>All layout tables do not contain th elements.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>231</id>
+		<desc>Use colgroup and col elements to group columns.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>243</id>
+		<desc>Table summaries do not duplicate the table captions.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>244</id>
+		<desc>Data tables that contain both row and column headers use the scope 
+		attribute to identify cells.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>245</id>
+		<desc>Data tables that contain more than one row/column of headers use the id and 
+		headers attributes to identify cells</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>95</id>
+		<desc>All textarea elements have an explicitly associated label.</desc>
+		<pri>4</pri>
+	</rule>
+
+	<rule>
+		<id>212</id>
+		<desc>All textarea elements have a label containing text.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>113</id>
+		<desc>All layout tables make sense when linearized.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>221</id>
+		<desc>applet should not use color alone.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>251</id>
+		<desc>The luminosity contrast ratio between text and background color in all 
+		images is at least 5:1.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>55</id>
+		<desc>input should not use color alone.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>73</id>
+		<desc>object must not use color alone.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>86</id>
+		<desc>Color alone should not be used in the script.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>177</id>
+		<desc>i (italic) element is not used.</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>11</id>
+		<desc>Alt text for all img elements contains all text in the image unless the 
+		image text is decorative or appears elsewhere in the document</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>103</id>
+		<desc>All onmousedown event handlers have an associated onkeydown event handler.</desc>
+		<pri>3</pri>
+	</rule>
+	<rule>
+		<id>37</id>
+		<desc>The header following an h1 is h1 or h2.</desc>
+		<pri>7</pri>
+	</rule>
+	<rule>
+		<id>100</id>
+		<desc>blockquote must not be used for indentation.</desc>
+		<pri>6</pri>
+	</rule>
+	<rule>
+		<id>131</id>
+		<desc>Use the blockquote element to mark up block quotations.</desc>
+		<pri>6</pri>
+	</rule>
+	<rule>
+		<id>187</id>
+		<desc>Each input element has only one associated label</desc>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>205</id>
+		<desc>All input elements, type of "file", have a label that describes the purpose 
+		or function of the control.</desc>
+		<pri>3</pri>
+	</rule>
+	
+</wcag>
+

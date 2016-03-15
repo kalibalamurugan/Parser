@@ -1,0 +1,32 @@
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+<resultset>
+  <summary>
+    <status>FAIL</status>
+    <sessionID>40-character-long string</sessionID>
+    <NumOfErrors>number</NumOfErrors>
+    <NumOfLikelyProblems>number</NumOfLikelyProblems>
+    <NumOfPotentialProblems>number</NumOfPotentialProblems>
+
+    <guidelines>
+      <guideline>string</guideline>
+      ...
+    </guidelines>
+  </summary>
+
+  <results>
+    <result>
+      <resultType>string</resultType>
+      <lineNum>number</lineNum>
+      <columnNum>number</columnNum>
+    <errorMsg>encoded string</errorMsg>
+    <errorSourceCode>encoded string</errorSourceCode>
+    <repair>encoded string</repair>
+    <decisionPass>encoded string</decisionPass>
+    <decisionFail>encoded string</decisionFail>
+    <decisionMade>string</decisionMade>
+    <decisionMadeDate>string</decisionMadeDate>
+    </result> 
+    ...
+  </results>
+</resultset>

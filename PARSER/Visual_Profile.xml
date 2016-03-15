@@ -1,0 +1,82 @@
+<wcag>
+                   <rule>
+		<id>111</id>
+		<desc>All data table summaries contain text.</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>3</pri>
+	</rule>
+                   <rule>
+		<id>112</id>
+		<desc>All data <code>table</code> summaries contain text.</desc>
+                                       <Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>3</pri>
+	</rule>
+                    <rule>
+		<id>91</id>
+		<desc>All select elements have an explicitly associated label.</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>4</pri>
+	</rule>
+                    <rule>
+		<id>57</id>
+		<desc>All input elements, type of "text", have an explicitly associated label.</desc>
+		<Deuteranomally(Red-Green)>Y</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>Y</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>Y</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>Y</ Deuteranopia(green)>
+		<Protanopia(Red)>Y</ Protanopia(Red)>
+		<Tritanopia(Blue)>Y</ Tritanopia(Blue)>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>252</id>
+		<desc>Data tables that contain more than one row/column of headers use the id and 
+		headers attributes to identify cells</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>4</pri>
+	</rule>
+	<rule>
+		<id>177</id>
+		<desc>font must not be used.</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>7</pri>
+	</rule>
+	<rule>
+		<id>117</id>
+		<desc>i (italic) element is not used.</desc>
+		<Deuteranomally(Red-Green)>N</ Deuteranomally(Red-Green)>
+		<Protanomly(red-green)>N</ Protanomly(red-green)>
+		<Tritonamnaly(blue-yellow)>N</Tritonamnaly(blue-yellow)
+		<Deuteranopia(green)>N</ Deuteranopia(green)>
+		<Protanopia(Red)>N</ Protanopia(Red)>
+		<Tritanopia(Blue)>N</ Tritanopia(Blue)>
+		<pri>7</pri>
+	</rule>
+	
+</wcag>
+

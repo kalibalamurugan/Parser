@@ -1,0 +1,61 @@
+<wcag>
+	<rule>
+		<id>54</id>
+		<desc>Link text is meaningful when read out of context.</desc>
+		<pri>1</pri>
+	</rule>
+	
+	<rule>
+		<id>301</id>
+		<desc>Provide sufficient contrast between text and background colours.</desc>
+		<pri>9</pri>
+	</rule>
+	
+	<rule>
+	<id>302</id>
+	<desc>Visited link text colour must contrast sufficiently with its background colour.</desc>
+	<pri>7</pri>
+	</rule>
+	
+	<rule>
+		<id>303</id>
+		<desc>Active link text colour must contrast sufficiently with its background colour.</desc>
+		<pri>6</pri>
+	</rule>
+    
+	<rule>
+		<id>21</id>
+		<desc>code applet code should not use color alone.</desc>
+		<pri>4</pri>
+	</rule>
+	
+	<rule>
+		<id>252</id>
+		<desc>All text colors or no text colors are set.</desc>
+		<pri>8</pri>
+	</rule>
+	
+	<rule>
+		<id>251</id>
+		<desc>The luminosity contrast ratio between text and background color in all images is at least 5:1.</desc>
+		<pri>8</pri>
+	</rule>
+	
+	<rule>
+		<id>19</id>
+		<desc>Link text is meaningful when read out of context.</desc>
+		<pri>2</pri>
+	</rule>
+	
+	<rule>
+		<id>89</id>
+		<desc>Link text is meaningful when read out of context.</desc>
+		<pri>10</pri>
+	</rule>
+	
+	<rule>
+		<id>87</id>
+		<desc>Link text is meaningful when read out of context.</desc>
+		<pri>9</pri>
+	</rule>
+</wcag>
